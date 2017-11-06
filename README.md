@@ -8,9 +8,9 @@ En primer lugar, he creado el presente repositorio Github para explicar el proce
 2. Un ejemplo de código rtf para un archivo con extensión **_rtf_**.
 3. Un código xml de una web al azar para incluirlo en el **_xml_**.
 
-## Paso 2: comprobación de la apertura de ficheros.
+## Paso 2: imágenes tratadas.
 
-## Paso 3: Aprender Markdown y uso de Github.
+## Paso 3: validar el HTML.
 
 
 ## Paso 4: Creación del enlace a html desde RawGit.
