@@ -1,6 +1,5 @@
 # Tarea02
 
-# Tarea01
 ## Paso 1: creación de HTML.
 En primer lugar, he creado el presente repositorio Github para explicar el proceso llevado a cabo a lo largo de esta tarea. En HTML lo he codificado en un documento txt mediente un bloc de notas sencillo y he guardado el archivo como .htm y UTF8.
 
