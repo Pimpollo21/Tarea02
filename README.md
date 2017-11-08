@@ -1,13 +1,12 @@
 # Tarea02
 
 ## Paso 1: creación de HTML.
-En primer lugar, he creado el presente repositorio Github para explicar el proceso llevado a cabo a lo largo de esta tarea. En HTML lo he codificado en un documento txt mediente un bloc de notas sencillo y he guardado el archivo como .htm y UTF8.
+En primer lugar, he creado el presente repositorio Github para explicar el proceso llevado a cabo a lo largo de esta tarea. El html lo he codificado mediante notepad ++, y, una vez finalizado, lo he guardado con la extensión .html y codificación UTF-8.
 
-1. He seleccionado los apuntes del temario para incluirlos en el **_html_**.
-2. Un ejemplo de código rtf para un archivo con extensión **_rtf_**.
-3. Un código xml de una web al azar para incluirlo en el **_xml_**.
+Los apuntes en los que me he basado para la realización del html provienen de la web [w3Schools](https://www.w3schools.com/).
 
 ## Paso 2: imágenes tratadas.
+En mi caso, pasé las imágenes por PNGgauntlen, pero el tamaño optimizado era el mismo en el cual tenía las imágenes, por lo que me he dispuesto únicamente a reducir su tamaño. Para ello, he utilizado Paint, indicado que se mantuviera la relación de aspecto para no deformar la imágen. A continuación se muestra una captura de una de las imágenes con la opción de reducción de tamaño:
 
 ## Paso 3: validar el HTML.
 
