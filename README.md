@@ -28,3 +28,6 @@ Tras la corrección de dichos errores, al volver a validar:
 
 ## Paso 5: Creación del README.md.
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
+
+## Dirección URL.
+la URL de mi página en RagGit es [mi web](https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html).
