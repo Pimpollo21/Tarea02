@@ -12,7 +12,7 @@ En mi caso, pasé las imágenes por PNGgauntlen, pero el tamaño optimizado era 
 
 ![Antes](/img/Captura_antes.PNG).
 ![Después](/img/Captura_después.PNG).
-![Comparación tamaño](/img/Tamaño.comparación.PNG).
+![Comparación tamaño](/img/Tamaño_comparación.PNG).
 
 ## Paso 3: validar el HTML.
 Una vez establecidos todos los archivos, nos disponemos a validar el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [https://validator.w3.org/] (https://validator.w3.org/) y he copiado allí el enlace.
