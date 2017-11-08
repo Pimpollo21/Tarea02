@@ -30,4 +30,5 @@ Tras la corrección de dichos errores, al volver a validar:
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
 
 ## Dirección URL.
-la URL de mi página en RagGit es [mi web](https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html).
+Mi web es: [SwitchPlay](https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html).
+(La dirección de RawGit es: https://rawgit.com/Pimpollo21/Tarea02/master/SwitchPlay.html )
