@@ -18,6 +18,13 @@ En mi caso, pasé las imágenes por PNGgauntlen, pero el tamaño optimizado era 
 Una vez establecidos todos los archivos, nos disponemos a validar el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [validador w3](https://validator.w3.org) y he copiado allí el enlace.
 
 ## Paso 4: corrección de html.
+Tras la primera validación me surgieron los siguientes errores:
+
+![Errores](/img/errores.PNG).
+
+Tras la corrección de dichos errores, al volver a validar:
+
+![Vlidación](/img/validación.PNG).
 
 ## Paso 5: Creación del README.md.
-Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. Para guardar los cambios pulsamos el botón de **_commit changes_**.
+Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
